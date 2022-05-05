@@ -1,7 +1,8 @@
 # python
 .ipynb_checkpoints
 venv/
-
+Frontend/
+SmartContracts/build/
 # typescript
 node_modules
 
